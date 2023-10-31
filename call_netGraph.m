@@ -4,8 +4,7 @@ function call_netGraph()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name - netGraph
 % Creation Date - 17th January 2021
-% Author - Charles Belanger Nzakimuena
-% Website - https://www.ibis-space.com/
+% Author - C. M. Belanger Nzakimuena
 %
 % Description - 
 %   NETGRAPH 
@@ -16,7 +15,7 @@ function call_netGraph()
 % License - MIT
 %
 % Change History -
-%                   17th January 2021 - Creation by Charles Belanger Nzakimuena
+%                   17th January 2021 - Creation by C. M. Belanger Nzakimuena
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
